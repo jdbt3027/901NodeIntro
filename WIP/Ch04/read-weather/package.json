@@ -1,0 +1,17 @@
+{
+  "name": "read-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.19.0",
+    "lodash": "^4.17.10",
+    "pg": "^7.11.0"
+  }
+}
